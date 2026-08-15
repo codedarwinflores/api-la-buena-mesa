@@ -72,7 +72,7 @@ Este enfoque sigue **separación de responsabilidades** y facilita escalar a mú
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<tu-usuario>/la-buena-mesa-api.git
+git clone https://github.com/codedarwinflores/api-la-buena-mesa.git
 cd la-buena-mesa-api
 
 # 2. Instalar dependencias (crea la carpeta vendor/)
