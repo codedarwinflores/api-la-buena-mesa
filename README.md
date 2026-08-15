@@ -99,7 +99,7 @@ La API quedará disponible en `http://localhost:8000/api/menu-items` y el panel 
 
 ## 📡 Documentación de Endpoints
 
-Base URL: `http://localhost:8000/api`
+Base URL: `http://localhost:8000/docs`
 
 Todas las respuestas siguen el formato:
 ```json
